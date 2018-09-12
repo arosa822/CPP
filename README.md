@@ -3,4 +3,4 @@ This repository is to keep track of lessons in the above book, it is to be used 
 
 ###To Do:
 - Rename folders with descriptive names
-- Clean up the folder - remove content that does not relate
+- add in bash to compile code 
